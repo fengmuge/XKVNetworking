@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XKVNetworking_Example' do
+  pod 'XKVNetworking', :path => '../'
+
+  target 'XKVNetworking_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
