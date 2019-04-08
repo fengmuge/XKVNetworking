@@ -1,0 +1,22 @@
+{
+  "name": "XKVNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of XKVNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fengmuge@yeah.net/XKVNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fengmuge@yeah.net": "fengmuge@yeah.net"
+  },
+  "source": {
+    "git": "https://github.com/fengmuge@yeah.net/XKVNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XKVNetworking/Classes/**/*"
+}

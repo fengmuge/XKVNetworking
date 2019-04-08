@@ -1,0 +1,6 @@
+framework module Pods_XKVNetworking_Example {
+  umbrella header "Pods-XKVNetworking_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
